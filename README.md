@@ -29,7 +29,7 @@ Descriptive analysis on ride_length were performed and compared members and casu
 
 5. Share
 
-Visualisations were created using Tableau. Published here 
+Visualisations were created using R and MS Excel 
 
 6. Act 
 

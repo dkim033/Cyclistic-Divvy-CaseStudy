@@ -132,6 +132,9 @@ is.numeric(all_trips$ride_length)
 # We will create a new version of the dataframe (v2) since data is being removed
 all_trips_v2 <- all_trips[!(all_trips$start_station_name == "HQ QR" | all_trips$ride_length<0),]
 
+#Remove rows with NA's using na.omit()
+all_trips_v2 <- na.omit(all_trips_v2)
+
 #=====================================
 # STEP 4: CONDUCT DESCRIPTIVE ANALYSIS
 #=====================================

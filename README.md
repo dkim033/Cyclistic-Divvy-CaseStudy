@@ -33,4 +33,4 @@ Visualisations were created using R and MS Excel
 
 6. Act 
 
-A powerpoint presentation was compiled - 
+A powerpoint presentation was compiled - Cyclistic Bike Tripdata Analysis.pptx
